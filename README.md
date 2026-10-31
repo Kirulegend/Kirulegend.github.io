@@ -1,56 +1,61 @@
-# 🎮 It'sKiruHere - Game Developer Portfolio
+<div align="center">
 
-A clean, authentic portfolio website matching [kiru.my.canva.site/itiskiruhere](https://kiru.my.canva.site/itiskiruhere/) with a grayish-white aesthetic, crisp typography, and ready for GitHub Pages.
+# 🎮 Kiranmouli (It'sKiruHere)
+### Gameplay Programmer • Game Developer • 3D Artist
 
----
+[![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-kirulegend.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kirulegend.github.io)
+[![Download Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-4facfe?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kirulegend.github.io/assets/resume.pdf)
 
-## 🚀 Quick Start (Run Locally)
+<br/>
 
-Runs directly with Node.js built-ins — no external dependencies needed!
+[![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white)](https://www.blender.org/)
+[![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF1313?style=flat&logo=adobesubstance3dpainter&logoColor=white)](https://www.adobe.com/products/substance3d-painter.html)
 
-### Method 1: Double-click
-Double-click `start-portfolio.bat` in this folder.
-
-### Method 2: Command Line
-```bash
-node server.js
-```
-Open your browser at: **[http://localhost:3000](http://localhost:3000)**
-
----
-
-## 🎨 Design & Visual Features
-
-- **Grayish-White Theme**: Clean background (`#f4f5f7`), pure white cards (`#ffffff`), and charcoal text (`#1e293b` / `#475569`) matching the original Canva layout.
-- **Zero Gradient Noise**: Flat, modern, high-contrast, professional game developer portfolio.
-- **Seamless Line Strip**: A dedicated horizontal repeating line banner (`.seamless-bg-stripe`) under the navigation bar configured with `background-repeat: repeat-x`.
-- **Pure Visitor Experience**: All editor bars, viewer/owner badges, and PIN prompts have been removed. The website looks 100% authentic to visitors.
-- **Easy Maintenance**: Whenever you want to add or modify projects, art, or case studies, simply provide the image and data in chat and it will be updated directly in the codebase!
+</div>
 
 ---
 
-## 🖼️ How to Add Your Seamless Background Image
+## 👨‍💻 About Me
 
-To use your seamless background design image:
-1. Save your image as:
-   `assets/seamless-bg.png`
-2. That's it! It will automatically repeat seamlessly in a horizontal line across the banner on all pages.
+Aspiring Game Developer building skills across the full game development pipeline. My core focus is **C# programming in Unity**, alongside foundational knowledge in **C++, Java, and Unreal Blueprint scripting**. 
+
+I combine technical gameplay programming with hands-on creative expertise in **3D Modeling, Texturing, UV Unwrapping, and UI Design** to produce complete, engaging, and performance-optimized game experiences.
+
+👉 **View Full Interactive Portfolio**: [kirulegend.github.io](https://kirulegend.github.io)
 
 ---
 
-## 🌐 Deploying to GitHub Pages
+## 🛠️ Skills & Technologies
 
-This project is 100% static-ready for GitHub Pages:
+| Discipline | Tools & Technologies |
+| :--- | :--- |
+| **Engines & Gameplay Programming** | Unity, Unreal Engine, C#, C++, Java, Blueprints, Game Mechanics, Physics, Shader Graph |
+| **3D Art & Asset Creation** | Blender, Substance 3D Painter, Hard-Surface Modeling, UV Unwrapping, PBR Texturing |
+| **Game UI & Optimization** | UI/UX Design, HUDs, Interactive Menus, Responsive Layouts, Asset Optimization |
 
-```bash
-git init
-git add .
-git commit -m "Kiru portfolio website"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-git push -u origin main
-```
+---
 
-1. Go to repository **Settings** → **Pages**.
-2. Select **Source**: `Deploy from a branch` → Branch: `main` → Folder: `/ (root)`.
-3. Click **Save** — your live website is ready!
+## 🏆 Featured Highlights
+
+- **Esc Sim** — Winner, *IGDC Student GOTY*
+- **#REview** — *BYOG Submission*
+- **Orbital Outbreak** — *Nominee, Indie GOTY / Internship*
+- **In Focus** — *Internship / INDI 40*
+- **3D Artwork Showcase** — 46 original hard-surface, weapon, and prop models
+- **Interactive UI Portfolio** — In-game kiosks, dialogue systems, inventory screens, and HUDs
+
+---
+
+## 📬 Connect with Me
+
+- 🌐 **Live Website**: [kirulegend.github.io](https://kirulegend.github.io)
+- 💼 **LinkedIn**: [linkedin.com/in/it-is-kiru](https://www.linkedin.com/in/it-is-kiru)
+- 🕹️ **Itch.io**: [itiskiruhere.itch.io](https://itiskiruhere.itch.io)
+- 🎨 **ArtStation**: [artstation.com/it_is_kiru-1](https://www.artstation.com/it_is_kiru-1)
+- 🐙 **GitHub**: [github.com/Kirulegend](https://github.com/Kirulegend)
+- 📸 **Instagram**: [@itiskiruhere](https://www.instagram.com/itiskiruhere/)
+- 📧 **Email**: [kiranmoulikodidasu@gmail.com](mailto:kiranmoulikodidasu@gmail.com)
