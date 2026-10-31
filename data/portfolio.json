@@ -1,0 +1,1247 @@
+{
+  "settings": {
+    "siteTitle": "It'sKiruHere - Kiranmouli Portfolio",
+    "theme": "dark",
+    "adminPin": "1234",
+    "tabs": [
+      {
+        "id": "about",
+        "name": "About Me"
+      },
+      {
+        "id": "projects",
+        "name": "Projects"
+      },
+      {
+        "id": "art",
+        "name": "3D Art"
+      },
+      {
+        "id": "overview",
+        "name": "Projects Overview"
+      },
+      {
+        "id": "showcase",
+        "name": "Project Showcase"
+      }
+    ]
+  },
+  "about": {
+    "name": "Kiranmouli",
+    "handle": "It'sKiruHere",
+    "role": "Gameplay Programmer",
+    "avatar": "_assets/media/c1a3e4af32ca16b923de3a0435cfee7f.png",
+    "characterArt": "_assets/media/c1a3e4af32ca16b923de3a0435cfee7f.png",
+    "bio": "I'm an aspiring Game Developer currently building my skills across the development pipeline. My core focus is C# programming in Unity. I also have foundational knowledge in C++, Java, & Unreal Blueprint scripting. I combine these programming skills with my creative work as 3D Artist, Texturing, UV unwrap and UI Designer to make complete, engaging projects with Optimized workflow.",
+    "skills": [
+      {
+        "name": "Unity C#",
+        "category": "Programming"
+      },
+      {
+        "name": "Unreal Blueprints / C++",
+        "category": "Programming"
+      },
+      {
+        "name": "UI Design",
+        "category": "Design"
+      },
+      {
+        "name": "3D Modeling",
+        "category": "Art"
+      },
+      {
+        "name": "Texturing",
+        "category": "Art"
+      },
+      {
+        "name": "Blender",
+        "category": "Tools"
+      },
+      {
+        "name": "Substance Painter",
+        "category": "Tools"
+      },
+      {
+        "name": "Unreal Engine",
+        "category": "Engine"
+      }
+    ],
+    "socialLinks": [
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/itiskiruhere/",
+        "icon": "instagram",
+        "iconAsset": "_assets/media/8ab3c029033c795cf8cf4c5c2ff53980.svg"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "http://www.linkedin.com/in/it-is-kiru",
+        "icon": "linkedin",
+        "iconAsset": "_assets/media/72eba520b9cc247025e207a250ef3eeb.svg"
+      },
+      {
+        "name": "Itch.io",
+        "url": "https://itiskiruhere.itch.io",
+        "icon": "itchio",
+        "iconAsset": "_assets/media/bbc97becb6b2096e7c087eabcf0149df.svg"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/Kirulegend",
+        "icon": "github",
+        "iconAsset": "_assets/media/5e222b3af0db83ee791d0feca255527a.svg"
+      },
+      {
+        "name": "ArtStation",
+        "url": "https://www.artstation.com/it_is_kiru-1",
+        "icon": "artstation",
+        "iconAsset": "_assets/media/d50baa9d800e613c18cc03fba401b394.svg"
+      },
+      {
+        "name": "Email",
+        "url": "mailto:kiranmoulikodidasu@gmail.com",
+        "display": "kiranmoulikodidasu@gmail.com",
+        "icon": "email",
+        "iconAsset": "_assets/media/06ca08b47ab2e120a655d6e6a0163141.png"
+      },
+      {
+        "name": "Phone",
+        "url": "tel:8074741532",
+        "display": "8074741532",
+        "icon": "phone",
+        "iconAsset": "_assets/media/68ba92c755333faa271b0255b316acb7.svg"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "#REview (BYOG Submission)",
+      "category": "Programming",
+      "tags": [
+        "BYOG Submission",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/f137ecfd3e3c4dbb42db313ccca7040f.png",
+      "link": "https://itiskiruhere.itch.io/review",
+      "description": "A complete Word Guessing/Riddle Game for Unity, centered around a visual, drag-and-drop input system with Wordle-like feedback logic."
+    },
+    {
+      "id": "proj-2",
+      "title": "Bubble Rush",
+      "category": "Programming",
+      "tags": [
+        "GGJ 2024",
+        "Programming",
+        "Art"
+      ],
+      "image": "_assets/media/9f8ae372050591a93db63a5c20ddcefc.png",
+      "link": "https://itiskiruhere.itch.io/bubble-rush",
+      "description": "A 2D mobile-focused, endless-runner/survival game centered on a character in a protective bubble."
+    },
+    {
+      "id": "proj-3",
+      "title": "Proto Type Future City",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/ef7645282654c4e324284da0c1cb9081.png",
+      "link": "https://itiskiruhere.itch.io/future-city",
+      "description": "An isometric city-building and resource management simulation game demonstrating complex building placement systems."
+    },
+    {
+      "id": "proj-4",
+      "title": "Match Tiles",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/4cb7b2ad5cc46b8b5472c6fafa9ecaf6.png",
+      "link": "https://itiskiruhere.itch.io/match-tiles",
+      "description": "A complete Tile Matching Memory Game for Unity with smooth tile flip animations and procedural board layout."
+    },
+    {
+      "id": "proj-5",
+      "title": "Esc Sim",
+      "category": "Programming",
+      "tags": [
+        "IGDC Student GOTY",
+        "Programming",
+        "Art"
+      ],
+      "image": "_assets/media/b830f34d503568a88fef0bb1fdedf2c1.png",
+      "link": "https://itiskiruhere.itch.io/esc-sim",
+      "description": "A first-person Escape Room/Puzzle Adventure Game built in Unity with physics interactions and modular puzzle elements."
+    },
+    {
+      "id": "proj-6",
+      "title": "Pokemon Mini Game",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming"
+      ],
+      "image": "_assets/media/0c328a434031d2b84c5b535ab5957b4c.png",
+      "link": "https://itiskiruhere.itch.io/pokimon",
+      "description": "A 2D top-down RPG strongly influenced by classic Pokemon mechanics, tile-based movement, and turn-based battles."
+    },
+    {
+      "id": "proj-7",
+      "title": "InFocus",
+      "category": "Art",
+      "tags": [
+        "Internship",
+        "INDI 40",
+        "Art"
+      ],
+      "image": "_assets/media/17aaf3ef6a08620de7478b8457f2e682.png",
+      "link": "https://b0ngo.itch.io/infocus",
+      "description": "Global Game Jam 2024 submission — co-op puzzle game where Kiru led the 3D art pipeline and environment art."
+    },
+    {
+      "id": "proj-8",
+      "title": "Orbital Outbreak (Kyodai Game Works)",
+      "category": "Programming",
+      "tags": [
+        "Internship",
+        "Nominee Indie GOTY",
+        "Programming (Short Term)",
+        "Art"
+      ],
+      "image": "_assets/media/ebb163b202a1475c7861cf61496682bd.jpg",
+      "link": "https://play.google.com/store/apps/details?id=com.orbital.kyodaigameworks&hl=en_IN",
+      "description": "Published mobile game on Google Play Store — programmed enemy behavior, logic implementation, and AI systems."
+    },
+    {
+      "id": "proj-9",
+      "title": "Isometric Buildings 3D",
+      "category": "Art",
+      "tags": [
+        "Unity Asset Pack",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/9aa43b665e15b6b90c00dedf2ac2f9b3.jpg",
+      "link": "https://assetstore.unity.com/packages/3d/environments/fantasy/isometric-buildings-3d-214806",
+      "description": "Published Unity Asset Store pack featuring modular 3D isometric building models, clean topology, and hand-crafted textures."
+    },
+    {
+      "id": "proj-10",
+      "title": "Thesis Project (AI NPC)",
+      "category": "Programming",
+      "tags": [
+        "Thesis Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/9e86d972ecb45ec55c1c5da6e039078f.png",
+      "link": "https://github.com/Kirulegend/Thesis_AI_NPC",
+      "description": "Multi-agent AI simulation with dynamic NPC behaviors, state machines, and perception cones in Unity."
+    },
+    {
+      "id": "proj-11",
+      "title": "Stack On",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/ea23bb002d06a7bcb7fbd87963f5becf.png",
+      "link": "https://itiskiruhere.itch.io/stackon",
+      "description": "Precision arcade stacking game with dynamic color-shifting, ScriptableObject store, Firebase leaderboard, and 120 FPS target."
+    },
+    {
+      "id": "proj-12",
+      "title": "Knife On",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/c053bc56676afb0698d143cb10fe0ea4.png",
+      "link": "https://play.google.com/store/apps/details?id=com.ItIsKiru.KnifeOn",
+      "description": "Precision arcade knife-throwing game with procedural rotation patterns, disk shattering physics, Unity LevelPlay ads, and Firebase sync."
+    },
+    {
+      "id": "proj-13",
+      "title": "2048 Bakers Edition",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/716bd762b3dad606ba1a29b0e383677e.png",
+      "link": "https://itiskiruhere.itch.io/2048-bakers-edition",
+      "description": "Custom bakery-themed variation of 2048 with bakery treat progression, responsive touch controls, and juicy particle feedback."
+    },
+    {
+      "id": "proj-14",
+      "title": "UI(Unwanted Internship)",
+      "category": "Design",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art"
+      ],
+      "image": "_assets/media/da3e39e0b7d1ec870ad5919ef479ca51.png",
+      "link": "https://itiskiruhere.itch.io/ui",
+      "description": "Interactive UI showcase demonstrating game menus, shopping kiosks, dialogue systems, inventory screens, and HUD layouts."
+    },
+    {
+      "id": "proj-15",
+      "title": "Road to Ninja",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/513f99553a14f4fcbd6131b67d367d59.png",
+      "link": "https://itiskiruhere.itch.io/road-to-ninja",
+      "description": "First-person action game prototype featuring parkour movement, sword combat, enemy AI, and stealth mechanics."
+    },
+    {
+      "id": "proj-16",
+      "title": "Advance Outline Shader",
+      "category": "Programming",
+      "tags": [
+        "Unity Shader Asset",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/1124468020821a572fefac20c1aa0297.png",
+      "link": "https://assetstore.unity.com/packages/vfx/shaders/advanced-outline-shader-384346#publisher",
+      "description": "High-performance screen-space edge detection and hull-outline shader package published on the Unity Asset Store."
+    },
+    {
+      "id": "proj-17",
+      "title": "Cubios",
+      "category": "Programming",
+      "tags": [
+        "Personal Project",
+        "Programming",
+        "Art",
+        "Design"
+      ],
+      "image": "_assets/media/f24b58981f34520360637dbb01ce55ad.png",
+      "link": "https://itiskiruhere.itch.io/cubies",
+      "description": "Vibrant voxel puzzle game featuring cube sliding mechanics, level editor, and procedural difficulty curves."
+    }
+  ],
+  "artworks": [
+    {
+      "id": "art-01",
+      "title": "3D Artwork #01",
+      "image": "_assets/media/41e15afd10101a2bce8b3fe2a22b3ee0.jpg",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "id": "art-02",
+      "title": "3D Artwork #02",
+      "image": "_assets/media/3262fc8c6431920970d28ac72e400aca.jpg",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "id": "art-03",
+      "title": "3D Artwork #03",
+      "image": "_assets/media/b406f4e0b5c82d174670e9a9aee3b007.jpg",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "id": "art-04",
+      "title": "3D Artwork #04",
+      "image": "_assets/media/5331691c8f1194352144232d1e2e7366.jpg",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "id": "art-05",
+      "title": "3D Artwork #05",
+      "image": "_assets/media/947a8fb55a88030d4f999b3939584e32.jpg",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "id": "art-06",
+      "title": "3D Artwork #06",
+      "image": "_assets/media/9198140ecc265e49bff2bf911c08fd86.jpg",
+      "width": 1440,
+      "height": 1440
+    },
+    {
+      "id": "art-07",
+      "title": "3D Artwork #07",
+      "image": "_assets/media/2f6ed694aa2e50907ae836b60b55477f.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "art-08",
+      "title": "3D Artwork #08",
+      "image": "_assets/media/adaa54935eef365ad233689ac3d73788.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "art-09",
+      "title": "3D Artwork #09",
+      "image": "_assets/media/d0b1975db51b94b6c98282699af9a465.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "art-10",
+      "title": "3D Artwork #10",
+      "image": "_assets/media/d3ae1a5244d984c4c6f6143899cda6e4.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "id": "art-11",
+      "title": "3D Artwork #11",
+      "image": "_assets/media/e3c18e5d526f8263344ee141474e0f45.png",
+      "width": 572,
+      "height": 572
+    },
+    {
+      "id": "art-12",
+      "title": "3D Artwork #12",
+      "image": "_assets/media/25744c2164adbed6406f3eb07dac8a61.png",
+      "width": 465,
+      "height": 387
+    },
+    {
+      "id": "art-13",
+      "title": "3D Artwork #13",
+      "image": "_assets/media/5ae576cf7dd5dc0d68b43c5e2187a11b.png",
+      "width": 932,
+      "height": 757
+    },
+    {
+      "id": "art-14",
+      "title": "3D Artwork #14",
+      "image": "_assets/media/6e8f54d7faa7b5830efb13cfec458868.png",
+      "width": 602,
+      "height": 752
+    },
+    {
+      "id": "art-15",
+      "title": "3D Artwork #15",
+      "image": "_assets/media/8305d9620aa9fec76db241d6867ee049.png",
+      "width": 832,
+      "height": 711
+    },
+    {
+      "id": "art-16",
+      "title": "3D Artwork #16",
+      "image": "_assets/media/e5d01688e44a3f34e9e3632ddcbda075.png",
+      "width": 600,
+      "height": 642
+    },
+    {
+      "id": "art-17",
+      "title": "3D Artwork #17",
+      "image": "_assets/media/f7cc2f188c40073b49f57a21e859b7b0.png",
+      "width": 707,
+      "height": 672
+    },
+    {
+      "id": "art-18",
+      "title": "3D Artwork #18",
+      "image": "_assets/media/cb4097b5c9ad3153eccdd1f700f01fcd.png",
+      "width": 686,
+      "height": 708
+    },
+    {
+      "id": "art-19",
+      "title": "3D Artwork #19",
+      "image": "_assets/media/594e36ba5baf3c80ba2ded3cadf9a6c5.png",
+      "width": 687,
+      "height": 679
+    },
+    {
+      "id": "art-20",
+      "title": "3D Artwork #20",
+      "image": "_assets/media/b923a2d40b4dc18ad651f6c39ccc3fa8.png",
+      "width": 811,
+      "height": 563
+    },
+    {
+      "id": "art-21",
+      "title": "3D Artwork #21",
+      "image": "_assets/media/7e285077cede23d7e4ce325eb8c31849.png",
+      "width": 785,
+      "height": 710
+    },
+    {
+      "id": "art-22",
+      "title": "3D Artwork #22",
+      "image": "_assets/media/c1a6ef4daf670e1fc2d14e364cc3707e.png",
+      "width": 1113,
+      "height": 639
+    },
+    {
+      "id": "art-23",
+      "title": "3D Artwork #23",
+      "image": "_assets/media/ebf434f3006348b5e6aac8ab23f3b5dd.png",
+      "width": 513,
+      "height": 514
+    },
+    {
+      "id": "art-24",
+      "title": "3D Artwork #24",
+      "image": "_assets/media/87db1acc96b35a85fbb8413635d93f79.png",
+      "width": 1920,
+      "height": 1920
+    },
+    {
+      "id": "art-25",
+      "title": "3D Artwork #25",
+      "image": "_assets/media/43216adefd35d1bbe880a695bfc2354e.png",
+      "width": 1920,
+      "height": 1920
+    },
+    {
+      "id": "art-26",
+      "title": "3D Artwork #26",
+      "image": "_assets/media/4791b3ac0bd345a1bba90ef6159e083d.png",
+      "width": 994,
+      "height": 650
+    },
+    {
+      "id": "art-27",
+      "title": "3D Artwork #27",
+      "image": "_assets/media/84bee826c121e7451307c39525811a83.png",
+      "width": 2400,
+      "height": 1350
+    },
+    {
+      "id": "art-28",
+      "title": "3D Artwork #28",
+      "image": "_assets/media/d32cd49772726cd656169bee31e7a5dd.png",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": "art-29",
+      "title": "3D Artwork #29",
+      "image": "_assets/media/467d9082ccd12d05874095d040ae5f3b.png",
+      "width": 1461,
+      "height": 870
+    },
+    {
+      "id": "art-30",
+      "title": "3D Artwork #30",
+      "image": "_assets/media/24919eac17d8c8449c9603faf7a34469.png",
+      "width": 1391,
+      "height": 830
+    },
+    {
+      "id": "art-31",
+      "title": "3D Artwork #31",
+      "image": "_assets/media/b8a5b5a31dcb4e9529d8d2f2fa1f965a.png",
+      "width": 1402,
+      "height": 894
+    },
+    {
+      "id": "art-32",
+      "title": "3D Artwork #32",
+      "image": "_assets/media/2c778c897c980dd0623b3775701ae20a.png",
+      "width": 1316,
+      "height": 683
+    },
+    {
+      "id": "art-33",
+      "title": "3D Artwork #33",
+      "image": "_assets/media/9a4588743515307a7457a6cf0e45303b.png",
+      "width": 1017,
+      "height": 709
+    },
+    {
+      "id": "art-34",
+      "title": "3D Artwork #34",
+      "image": "_assets/media/4344afa0f4dc8e1692bd50c41c7c3d46.png",
+      "width": 924,
+      "height": 897
+    },
+    {
+      "id": "art-35",
+      "title": "3D Artwork #35",
+      "image": "_assets/media/8c3d38e3ff9aab7b4ec9c852a733a958.png",
+      "width": 754,
+      "height": 825
+    },
+    {
+      "id": "art-36",
+      "title": "3D Artwork #36",
+      "image": "_assets/media/b559ec852f947734dc9ab2711c8b2f0a.png",
+      "width": 1267,
+      "height": 881
+    },
+    {
+      "id": "art-37",
+      "title": "3D Artwork #37",
+      "image": "_assets/media/2e635b252054e82e34907eb338137d25.png",
+      "width": 1131,
+      "height": 841
+    },
+    {
+      "id": "art-38",
+      "title": "3D Artwork #38",
+      "image": "_assets/media/a2c5e135d5d3983c68d5e968853716cf.png",
+      "width": 675,
+      "height": 780
+    },
+    {
+      "id": "art-39",
+      "title": "3D Artwork #39",
+      "image": "_assets/media/21ef31437e8d2c12ad61b131f9c4d08d.png",
+      "width": 1041,
+      "height": 788
+    },
+    {
+      "id": "art-40",
+      "title": "3D Artwork #40",
+      "image": "_assets/media/ca3d6c73e591957d5c4d42ccd71ad79a.png",
+      "width": 1059,
+      "height": 887
+    },
+    {
+      "id": "art-41",
+      "title": "3D Artwork #41",
+      "image": "_assets/media/a755afd9ce67dd111bdf6628f040a9f7.png",
+      "width": 967,
+      "height": 825
+    },
+    {
+      "id": "art-42",
+      "title": "3D Artwork #42",
+      "image": "_assets/media/173fafb2831cf6e84d4b87253351c18e.png",
+      "width": 1091,
+      "height": 836
+    },
+    {
+      "id": "art-43",
+      "title": "3D Artwork #43",
+      "image": "_assets/media/22d57d23dec1007799dd8ed3a64f8459.png",
+      "width": 1343,
+      "height": 879
+    },
+    {
+      "id": "art-44",
+      "title": "3D Artwork #44",
+      "image": "_assets/media/090f93e9fdf06c9fe1b87e9341fe3517.png",
+      "width": 737,
+      "height": 689
+    },
+    {
+      "id": "art-45",
+      "title": "3D Artwork #45",
+      "image": "_assets/media/ec02320a85a7e27e8819b4d8692a82db.png",
+      "width": 889,
+      "height": 832
+    },
+    {
+      "id": "art-46",
+      "title": "3D Artwork #46",
+      "image": "_assets/media/ba986beafed51bbd8af7975c6a095f14.png",
+      "width": 776,
+      "height": 849
+    }
+  ],
+  "caseStudies": [
+    {
+      "id": "case-1",
+      "title": "Word Guessing / Riddle Game",
+      "overview": "This project involved programming a complete Word Guessing/Riddle Game for Unity, centered around a visual, drag-and-drop input system with Wordle-like feedback logic.",
+      "role": "Programmer",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Canva, Unity",
+      "link": "https://itiskiruhere.itch.io/review",
+      "image": "_assets/media/f137ecfd3e3c4dbb42db313ccca7040f.png",
+      "sections": [
+        {
+          "title": "1. Game Management",
+          "content": "Created a central Game Manager (Singleton) controlling game flow: loading riddles randomly from non-solved pools, managing lives/tries, and triggering win/loss screen transitions."
+        },
+        {
+          "title": "2. Dynamic UI and Input",
+          "content": "Engineered drag-and-drop letter tile slots with snappy snapping, keyboard support, and instant color feedback (Green for correct position, Yellow for wrong position, Gray for incorrect)."
+        },
+        {
+          "title": "3. Sound & Juiciness",
+          "content": "Integrated sound effects, tile scale tweening, and celebratory particle confetti upon solving riddles."
+        }
+      ]
+    },
+    {
+      "id": "case-2",
+      "title": "Escape Sim (First-Person Puzzle Room)",
+      "overview": "This project is a programmed first-person Escape Room/Puzzle Adventure Game built in Unity, demonstrating physics interactions, keycard readers, and interlocking puzzle contraptions.",
+      "role": "Programmer & 3D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1 Programming / Art, 1 Level / Lore",
+      "tools": "Blender, Unity",
+      "link": "https://itiskiruhere.itch.io/esc-sim",
+      "image": "_assets/media/b830f34d503568a88fef0bb1fdedf2c1.png",
+      "sections": [
+        {
+          "title": "1. Interaction System",
+          "content": "Built a raycast-based interaction framework enabling players to pick up, rotate, inspect, and slot 3D objects into triggers."
+        },
+        {
+          "title": "2. Puzzle Logic Architecture",
+          "content": "Designed modular scriptable puzzle nodes: dial locks, UV light hidden clues, keypad security doors, and statue alignment."
+        }
+      ]
+    },
+    {
+      "id": "case-3",
+      "title": "Isometric Buildings 3D Asset Pack",
+      "overview": "This project involved the design and development of a comprehensive, two-part 3D Isometric Asset Pack for the Unity Asset Store.",
+      "role": "3D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1 Publisher, 1 3D Artist",
+      "tools": "Blender, Substance Painter, Unity",
+      "link": "https://assetstore.unity.com/packages/3d/environments/fantasy/isometric-buildings-3d-214806",
+      "image": "_assets/media/9aa43b665e15b6b90c00dedf2ac2f9b3.jpg",
+      "sections": [
+        {
+          "title": "1. Asset Creation & Optimization",
+          "content": "Modeled modular medieval & fantasy structures in Blender, optimized polygon budgets, baked clean normal maps, and textured using Substance Painter."
+        },
+        {
+          "title": "2. Unity Integration",
+          "content": "Configured prefabs with colliders, custom LOD groups, and demo scenes showcasing lighting and camera settings."
+        }
+      ]
+    },
+    {
+      "id": "case-4",
+      "title": "Orbital - Enemy AI & Logic Implementation",
+      "overview": "Short-term programming assignment for published mobile title 'Orbital' by Kyodai Game Works on Google Play.",
+      "role": "Programmer & 3D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "2 Programming, 6 3D Art",
+      "tools": "Blender, Unity C#",
+      "link": "https://play.google.com/store/apps/details?id=com.orbital.kyodaigameworks&hl=en_IN",
+      "image": "_assets/media/ebb163b202a1475c7861cf61496682bd.jpg",
+      "sections": [
+        {
+          "title": "1. Enemy State Machine",
+          "content": "Implemented finite state machines (Patrol, Alert, Chase, Attack, Flee) with customizable parameters for varied enemy archetypes."
+        },
+        {
+          "title": "2. Mobile Performance Optimization",
+          "content": "Optimized garbage collection, object pooling for projectiles, and lightweight physics checks to ensure steady 60 FPS on mid-range Android devices."
+        }
+      ]
+    },
+    {
+      "id": "case-5",
+      "title": "InFocus (GGJ 2024 Co-op Puzzle Game)",
+      "overview": "Global Game Jam 2024 submission co-op puzzle game focused on dual perspectives and teamwork.",
+      "role": "3D / Environment Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1 Programming, 4 3D Art",
+      "tools": "Blender, Unity",
+      "link": "https://b0ngo.itch.io/infocus",
+      "image": "_assets/media/17aaf3ef6a08620de7478b8457f2e682.png",
+      "sections": [
+        {
+          "title": "1. Environment Art Direction",
+          "content": "Established the visual tone using atmospheric lighting, stylized props, and complementary color palettes across puzzle rooms."
+        }
+      ]
+    },
+    {
+      "id": "case-6",
+      "title": "Future City (Isometric Simulation)",
+      "overview": "An isometric city-building and resource management simulation game demonstrating building placement and grid math.",
+      "role": "Programmer & 3D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Blender, Canva, Unity",
+      "link": "https://itiskiruhere.itch.io/future-city",
+      "image": "_assets/media/ef7645282654c4e324284da0c1cb9081.png",
+      "sections": [
+        {
+          "title": "1. Grid & Placement System",
+          "content": "Engineered cell-based snapping with collision checks, resource network pathfinding, and building progression states."
+        }
+      ]
+    },
+    {
+      "id": "case-7",
+      "title": "Bubble Rush (Mobile Endless Runner)",
+      "overview": "A 2D mobile-focused endless-runner/survival game centered on a character in a protective bubble with physics buoyancy.",
+      "role": "Programmer & 2D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "2",
+      "tools": "Aseprite, Photoshop, Canva, Unity",
+      "link": "https://itiskiruhere.itch.io/bubble-rush",
+      "image": "_assets/media/9f8ae372050591a93db63a5c20ddcefc.png",
+      "sections": [
+        {
+          "title": "1. Procedural Obstacle Spawning",
+          "content": "Dynamic obstacle frequency curves that scale based on distance survived, with hazard collision bounce physics."
+        }
+      ]
+    },
+    {
+      "id": "case-8",
+      "title": "Pokimon (2D Top-Down RPG)",
+      "overview": "A 2D top-down RPG strongly influenced by the classic Pokemon series, built to explore grid navigation and turn-based battle engines.",
+      "role": "Programmer",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Aseprite, Canva, Unity",
+      "link": "https://itiskiruhere.itch.io/pokimon",
+      "image": "_assets/media/0c328a434031d2b84c5b535ab5957b4c.png",
+      "sections": [
+        {
+          "title": "1. Turn-Based Battle Engine",
+          "content": "Command-driven battle system supporting stat calculations, move sets, elemental weaknesses, and animated text sequences."
+        }
+      ]
+    },
+    {
+      "id": "case-9",
+      "title": "Road to Ninja (First-Person Action)",
+      "overview": "A First-Person Action Game prototype integrating parkour movement, sword collision, and stealth AI.",
+      "role": "Programmer & 3D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Blender, Canva, Unity",
+      "link": "https://itiskiruhere.itch.io/road-to-ninja",
+      "image": "_assets/media/1a4db0280b377d6fd38356818f70c883.png",
+      "sections": [
+        {
+          "title": "1. Movement & Combat Mechanics",
+          "content": "Custom character controller with wall-running, mantle checks, katana parry timing windows, and ragdoll reactions."
+        }
+      ]
+    },
+    {
+      "id": "case-10",
+      "title": "Thesis Project: Multi-Agent AI NPC Simulation",
+      "overview": "A sophisticated Thesis Project focused on creating dynamic, multi-agent AI simulations with goal-oriented behavior and perception cones.",
+      "role": "Programmer & 3D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Blender, Canva, Unity C#",
+      "link": "https://github.com/Kirulegend/Thesis_AI_NPC",
+      "image": "_assets/media/9e86d972ecb45ec55c1c5da6e039078f.png",
+      "sections": [
+        {
+          "title": "1. Perception & Navigation",
+          "content": "Field-of-view visual cones and auditory stimulus propagation allowing NPCs to react dynamically to player actions."
+        }
+      ]
+    },
+    {
+      "id": "case-11",
+      "title": "Match Tiles (Memory Game)",
+      "overview": "A complete Tile Matching Memory Game for Unity, centered around a 3D board with flip animations and progressive level layouts.",
+      "role": "Programmer",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Canva, Unity",
+      "link": "https://itiskiruhere.itch.io/match-tiles",
+      "image": "_assets/media/4cb7b2ad5cc46b8b5472c6fafa9ecaf6.png",
+      "sections": [
+        {
+          "title": "1. Dynamic Board Generation",
+          "content": "Procedural grid generation supporting different matrix sizes (3x4, 4x4, 4x5) with card pair randomization and scoring logic."
+        }
+      ]
+    },
+    {
+      "id": "case-12",
+      "title": "StackOn (Arcade Stacker)",
+      "overview": "A precision-based arcade game for Unity called StackOn, centered around timing-based block placement, dynamic color shifting, and online leaderboards.",
+      "role": "Programmer & 2D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Blender, Canva, Unity C#",
+      "link": "https://itiskiruhere.itch.io/stackon",
+      "image": "_assets/media/ea23bb002d06a7bcb7fbd87963f5becf.png",
+      "sections": [
+        {
+          "title": "1. Procedural Block Slicing & Physics",
+          "content": "Calculates overlap between the moving block and previous layer, instantiating the remaining slice as a physics Rigidbody falling with gravity."
+        },
+        {
+          "title": "2. Color Shifting & Storefront",
+          "content": "Dynamic hue-shifting algorithm based on stack height. ScriptableObject store system with local JSON persistence and Firebase cloud sync."
+        },
+        {
+          "title": "3. 120 FPS Optimization",
+          "content": "Custom FPS profiler, zero GC allocation during runtime loops, and smooth Vector3.Lerp camera track."
+        }
+      ]
+    },
+    {
+      "id": "case-13",
+      "title": "KnifeOn (Google Play Arcade Game)",
+      "overview": "Precision knife-throwing arcade game with procedural rotation patterns, disk shattering, Unity LevelPlay ads, and Firebase cloud leaderboards.",
+      "role": "Programmer & 2D Artist",
+      "engine": "Unity Engine",
+      "teamSize": "1",
+      "tools": "Blender, Canva, Unity C#",
+      "link": "https://play.google.com/store/apps/details?id=com.ItIsKiru.KnifeOn",
+      "image": "_assets/media/c053bc56676afb0698d143cb10fe0ea4.png",
+      "sections": [
+        {
+          "title": "1. Rotation Dynamics & Level Scaling",
+          "content": "Mathf.SmoothDamp rotation patterns that dynamically introduce erratic reversals, sudden pauses, and speed bursts at higher tiers."
+        },
+        {
+          "title": "2. Physics Shattering & Juice",
+          "content": "Procedural disk explosion on level completion, camera shake (shakeMagnitude), and pitch-shifted audio feedback."
+        },
+        {
+          "title": "3. LevelPlay Monetization & Cloud Sync",
+          "content": "Integrated Unity LevelPlay rewarded ads for session continuations and Firebase Realtime Database high scores."
+        }
+      ]
+    }
+  ],
+  "showcase": [
+    {
+      "id": "showcase-1",
+      "title": "Food Sim",
+      "videoId": "VAHE3MZxIjI",
+      "duration": 33.36,
+      "poster": "_assets/video/b1eb450cdd52e095bba512c5bc057064.jpg",
+      "videoUrl": "_assets/video/f857566f84c339227a37c427baae8b1c.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-2",
+      "title": "Shopping UI",
+      "videoId": "VAHE3Fdb-jo",
+      "duration": 59.2,
+      "poster": "_assets/video/73e39076e56389a2d863aff8242b0c38.jpg",
+      "videoUrl": "_assets/video/46cc550381ab89fbffe8c82d6f3bbd97.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-3",
+      "title": "Food Sim",
+      "videoId": "VAHE3DRjcLU",
+      "duration": 52,
+      "poster": "_assets/video/8d5512e2e39a573fbe25f1e8b03593cf.jpg",
+      "videoUrl": "_assets/video/e59e065e3ec1df8788de1e9f6d2fab5c.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-4",
+      "title": "NPC CAM",
+      "videoId": "VAHE3PgXahc",
+      "duration": 44.08,
+      "poster": "_assets/video/345e70860c19cf2cb4a617ef863b4ba9.jpg",
+      "videoUrl": "_assets/video/04c0771baad52582f4c9b63e0cff9f3e.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-5",
+      "title": "Shopping UI",
+      "videoId": "VAHE3SCJOho",
+      "duration": 58.24,
+      "poster": "_assets/video/d0cdf85cd0a854f88ca055ed0963e686.jpg",
+      "videoUrl": "_assets/video/b34021ad498967a7609ebfa1dadef8e3.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-6",
+      "title": "NPC CAM",
+      "videoId": "VAHE3SgX8K4",
+      "duration": 56.48,
+      "poster": "_assets/video/0626e65b945bf31917f0be80e248a882.jpg",
+      "videoUrl": "_assets/video/12633b88aa53068c036a8b3c4521aa18.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-7",
+      "title": "BOARD GAME",
+      "videoId": "VAHE3kOkqno",
+      "duration": 8.2,
+      "poster": "_assets/video/e43e810fcce1fa7890b2bdd01544b39d.jpg",
+      "videoUrl": "_assets/video/11e3ae28d56b908c75c18299bb5d5c47.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-8",
+      "title": "Dial Lock",
+      "videoId": "VAHE3me9xDE",
+      "duration": 18.5,
+      "poster": "_assets/video/1814cb6c7300dcc875483efadca101bd.jpg",
+      "videoUrl": "_assets/video/e37c946c25db7970154667f46ec7fa9b.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-9",
+      "title": "PC UI",
+      "videoId": "VAHE3uBuEaU",
+      "duration": 10.3,
+      "poster": "_assets/video/b2bd662278e62461ab2dd619d760f395.jpg",
+      "videoUrl": "_assets/video/17d66d99086762d6d33625270ba4198c.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-10",
+      "title": "Disk Puzzle",
+      "videoId": "VAHE3lJp4SY",
+      "duration": 5.9,
+      "poster": "_assets/video/1184bed16f3601aaadc502e164500c93.jpg",
+      "videoUrl": "_assets/video/3b833a471e52de2b35101e850b232ed5.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-11",
+      "title": "STATUE Puzzle",
+      "videoId": "VAHE3g-HjzY",
+      "duration": 14.3,
+      "poster": "_assets/video/805b76f97686ae252a4c0fb3e009a1c4.jpg",
+      "videoUrl": "_assets/video/77b998cb899e24cce4edae1d8092cdd0.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-12",
+      "title": "UV LIGHT",
+      "videoId": "VAHE3hWgCSY",
+      "duration": 8,
+      "poster": "_assets/video/ee69a945fdf3d95bff866366073527fa.jpg",
+      "videoUrl": "_assets/video/74634631f690089fb58ad14608e06f57.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-13",
+      "title": "MAP PUZZLE",
+      "videoId": "VAHE3hY8c-4",
+      "duration": 14.9,
+      "poster": "_assets/video/2772ac24468fb57d7638bc81dacfd3d4.jpg",
+      "videoUrl": "_assets/video/d7d668abb42219623c9ba92e8647a66c.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-14",
+      "title": "WORDLE",
+      "videoId": "VAHE3ihok4g",
+      "duration": 9.8,
+      "poster": "_assets/video/084b7c55eb5a5ded80a4c5af85ca7387.jpg",
+      "videoUrl": "_assets/video/442a1cfafa9299d596db1b0805a37b1f.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-15",
+      "title": "CITY BUILDER",
+      "videoId": "VAHE3pX3bt4",
+      "duration": 18.7,
+      "poster": "_assets/video/f247471d944fbcae2aed182bdb8014b5.jpg",
+      "videoUrl": "_assets/video/abac5ad21ec9252002a92d63089d4c15.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-16",
+      "title": "Pin Lock",
+      "videoId": "VAHE4FKU-vI",
+      "duration": 60,
+      "poster": "_assets/video/afb615d30999792472cf3702b27ecfec.jpg",
+      "videoUrl": "_assets/video/efda8dffa2fc22d991157b0b6cc1091e.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-17",
+      "title": "ITem Interaction",
+      "videoId": "VAHE4UkwqyI",
+      "duration": 52.8,
+      "poster": "_assets/video/cde2f231c0afd340358e5cbbd77e2466.jpg",
+      "videoUrl": "_assets/video/6892be023799596dcaed8096bd12a18e.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-18",
+      "title": "Fortnite Build",
+      "videoId": "VAHE4c-P7vw",
+      "duration": 6.8,
+      "poster": "_assets/video/c9f859f99bd217f5e3f12588817664c7.jpg",
+      "videoUrl": "_assets/video/4e6768960e13d15d76c709fbe6309fc5.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-19",
+      "title": "2D RPG / Pokemon",
+      "videoId": "VAHE4XhoB-I",
+      "duration": 12.4,
+      "poster": "_assets/video/9775f3f459faa29569087c89579e31d4.jpg",
+      "videoUrl": "_assets/video/995f94b47fa8f3f4616afcab4562f1f0.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-20",
+      "title": "vertical platformer",
+      "videoId": "VAHE4cd_9fg",
+      "duration": 9.3,
+      "poster": "_assets/video/7cf6583cd97593b9dbd9d10d675e3d17.jpg",
+      "videoUrl": "_assets/video/2bbdca8248b71835c41444ed07869746.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-21",
+      "title": "Stack On Game",
+      "videoId": "VAHE4Z3s6jk",
+      "duration": 26.5,
+      "poster": "_assets/video/bf7f26ef2cfa3c7886879428dc6b8032.jpg",
+      "videoUrl": "_assets/video/eba200d5e3ccb33a499dea46da8fa84a.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-22",
+      "title": "Zip - Line",
+      "videoId": "VAHE4UeXKqE",
+      "duration": 7.9,
+      "poster": "_assets/video/fab6fb5348cf92f36baf128c4ce4a668.jpg",
+      "videoUrl": "_assets/video/f2cf961278fbffed490740b5b3547226.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-23",
+      "title": "Pieces Puzzle",
+      "videoId": "VAHE4f4uUiA",
+      "duration": 30.4,
+      "poster": "_assets/video/119e813166b84e2dbf4f259f6c0f6e9f.jpg",
+      "videoUrl": "_assets/video/4c012e65454de07b2f5659931e7705d5.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-24",
+      "title": "Knife Hit Game",
+      "videoId": "VAHE4jtzeV8",
+      "duration": 92.8,
+      "poster": "_assets/video/1f4cd65e9976d8aec85b2c4a2db6d884.jpg",
+      "videoUrl": "_assets/video/788f413f52a49bead59295cecdc5806c.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-25",
+      "title": "Inventory / Place",
+      "videoId": "VAHE4XhoB-I",
+      "duration": 12.4,
+      "poster": "_assets/video/9775f3f459faa29569087c89579e31d4.jpg",
+      "videoUrl": "_assets/video/995f94b47fa8f3f4616afcab4562f1f0.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    },
+    {
+      "id": "showcase-26",
+      "title": "Inventory / Place",
+      "videoId": "VAHPjDoVo_M",
+      "duration": 94.6,
+      "poster": "_assets/video/9388dc1550c56981130ec5b95c01fb09.jpg",
+      "videoUrl": "_assets/video/36cfdd518d5197cd1a5ba26ad784a6ba.mp4",
+      "tags": [
+        "Gameplay",
+        "Mechanic"
+      ]
+    }
+  ]
+}

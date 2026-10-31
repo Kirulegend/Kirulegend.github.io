@@ -1,0 +1,8 @@
+# Ignore duplicate staging folder to prevent pushing 160MB+ of duplicate media
+public/
+
+# OS and temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+node_modules/
